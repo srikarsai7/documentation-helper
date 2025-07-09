@@ -19,10 +19,12 @@ streamlit = "*"
 streamlit-chat = "*"
 tqdm = "*"
 langchain-pinecone = "*"
+dotenv = "*"
+langchain-community = "*"
 langchain-openai = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.11"
-python_full_version = "3.11.0"
+python_version = "3.13"
+python_full_version = "3.13.5"
